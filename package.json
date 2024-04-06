@@ -1,0 +1,24 @@
+{
+  "name": "blog_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashGupta018/blog_website.git"
+  },
+  "author": "Yash Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashGupta018/blog_website/issues"
+  },
+  "homepage": "https://github.com/YashGupta018/blog_website#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.0"
+  }
+}
